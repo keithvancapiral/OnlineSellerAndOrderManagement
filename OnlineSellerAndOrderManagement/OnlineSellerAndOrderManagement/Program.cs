@@ -11,7 +11,7 @@ namespace OnlineSellerAndOrderManagement
         static void Main(string[] args)
         {
             Console.WriteLine("Hello World  mo to :)");
-            Console.WriteLine("Hello World  mo to sample :)");
+            Console.WriteLine("Hello World  mo to sample ko to :)");
             Console.Read();
         }
     }
